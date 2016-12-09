@@ -1,0 +1,13 @@
+ <style>
+ #mensagens {
+   height: 300px;
+   background-color: #eee;
+   border: 1px solid black;
+   margin-bottom: 10px;
+ }
+</style>
+
+<h1>Chat</h1>
+
+<div id="mensagens" ></div>
+<textarea id="entrada" rows="5" class="form-control" placeholder="Digite aqui sua mensagem"></textarea>
